@@ -1,6 +1,6 @@
 # Weather Sonification for ARM
 
-Design of a Weather Sonification Product for the 'Design, Construction and Test' Module - ElecEng, University of York, Year 2 (May 2019).
+Design of a Weather Sonification Product for the 'Design, Construction and Test' Module - ElecEng, University of York, Year 2.
 
 Coded in uVision for the STM32F407VG micro-controller processor unit.
 
